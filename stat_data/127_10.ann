@@ -1,0 +1,39 @@
+T1	Drug 630 635	甲状腺激素
+T2	Symptom 5645 5650	双下肢无力
+T3	Symptom 543 548	性功能减退
+T4	Drug 1085 1087	LA
+T5	Test 5233 5235	LH
+T6	Anatomy 436 437	胃
+T7	Duration 409 411	长期
+T8	Amount 4084 4088	0. 1
+T9	Amount 7153 7157	0. 5
+T10	Test 377 379	体重
+T11	Test_Value 6717 6719	减轻
+T12	Disease 8271 8273	MC
+T13	Test 4512 4514	MI
+T14	Test 712 714	MR
+T15	Reason 484 490	40 岁以上
+T16	Test_Value 6228 6238	3 mmol / L
+T17	Disease 573 577	高钾血症
+T18	Level 10701 10703	平均
+T19	Symptom 5924 5930	生理反射存在
+T20	Symptom 5654 5656	麻木
+T21	Level 5754 5756	慢性
+T22	Symptom 377 378	体
+T23	Reason 8409 8417	淋巴细胞性垂体炎
+T24	Disease 1139 1141	Ob
+T25	Disease 4398 4400	外伤
+T26	Anatomy 3991 3992	头
+T27	Test_Value 546 548	减退
+T28	Test 4150 4154	血红蛋白
+T29	Test 4506 4515	体重指数(BMI)
+T30	Disease 8524 8528	克罗恩病
+T31	Disease 722 726	空泡蝶鞍
+T32	Test_Value 4619 4623	正常范围
+T33	Test_Value 7642 7655	110 / 70 mmHg
+T34	Level 613 615	明显
+T35	Method 402 404	多次
+T36	Drug 5460 5463	强的松
+T37	Anatomy 8516 8518	结肠
+T38	Disease 683 687	免疫性疾
+T39	Reason 4431 4434	吸烟史
